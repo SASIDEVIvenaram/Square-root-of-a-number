@@ -32,7 +32,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![sq](square.png)
+![sq](/square.png)
 
 
 ## Result:
